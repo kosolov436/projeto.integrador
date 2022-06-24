@@ -331,3 +331,21 @@ body{
   background-color: deepskyblue;
   cursor: pointer;
 }
+
+/* Tela de sugestões */
+
+#botaosugest {
+    padding: 10px;
+}
+
+#comentsugest {
+    padding: 10px;
+}
+
+#motivosugest {
+    padding: 10px;
+}
+
+#qualsugest {
+    padding: 10px;
+}
