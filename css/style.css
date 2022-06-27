@@ -293,7 +293,7 @@ body{
   align-items: center;
   border: none;
   outline: none;
-  background-image: url('../../assets/fundo3.jpg');
+  background-image: url('../assets/fundo3.jpg');
 }
 
 .div {
